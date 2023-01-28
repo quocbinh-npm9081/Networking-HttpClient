@@ -1,0 +1,15 @@
+E:\tutorial\c#\networking\bin\Debug\net7.0\networking.exe
+E:\tutorial\c#\networking\bin\Debug\net7.0\networking.deps.json
+E:\tutorial\c#\networking\bin\Debug\net7.0\networking.runtimeconfig.json
+E:\tutorial\c#\networking\bin\Debug\net7.0\networking.dll
+E:\tutorial\c#\networking\bin\Debug\net7.0\networking.pdb
+E:\tutorial\c#\networking\obj\Debug\net7.0\networking.csproj.AssemblyReference.cache
+E:\tutorial\c#\networking\obj\Debug\net7.0\networking.GeneratedMSBuildEditorConfig.editorconfig
+E:\tutorial\c#\networking\obj\Debug\net7.0\networking.AssemblyInfoInputs.cache
+E:\tutorial\c#\networking\obj\Debug\net7.0\networking.AssemblyInfo.cs
+E:\tutorial\c#\networking\obj\Debug\net7.0\networking.csproj.CoreCompileInputs.cache
+E:\tutorial\c#\networking\obj\Debug\net7.0\networking.dll
+E:\tutorial\c#\networking\obj\Debug\net7.0\refint\networking.dll
+E:\tutorial\c#\networking\obj\Debug\net7.0\networking.pdb
+E:\tutorial\c#\networking\obj\Debug\net7.0\networking.genruntimeconfig.cache
+E:\tutorial\c#\networking\obj\Debug\net7.0\ref\networking.dll
